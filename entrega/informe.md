@@ -4,7 +4,7 @@
 _Taller 1 - Modelado de Proceso del Cliente con BPMN_
 
 ## 👥 Integrantes del equipo
-- Jonatan David Vergara Suárez (girhub.com/JonatnV)
+- Jonatan David Vergara Suárez (github.com/JonatnV)
 - Carlos David Bello Ortiz
 - Jhojan Camilo Jiménez Amaya
 
