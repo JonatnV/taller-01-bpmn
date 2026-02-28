@@ -9,16 +9,37 @@ _Taller 1 - Modelado de Proceso del Cliente con BPMN_
 - Jhojan Camilo Jiménez Amaya
 
 ## 🧠 Descripción general del trabajo
-Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
+El taller tiene de objetivo, entender las actividades del cliente y partir de esto, lograr representar mediante un modelo, como funciona la operación
+propuesta para su desglose y futura mejora.
 
 ## 🔧 Proceso de desarrollo
-(Pendiente por cliente)
+Despues de tener la reunión con el cliente y tener comprensión del proceso a trabajar, primero se entendio en pasos sin identificar a quien pertenecia
+para entender como estaba compuesto de forma general el proceso, el cliente realiza una solicitud en base a unas necesidades o requisistos,
+a partir de esto un miembro de comercialización, busca en el catalogo de productos, aquellos que cumplan los requisitos del cliente, posterior a esto
+con las referencias seleccionadas, pasa a la base de datos a consultar el precio y beneficios con los que cuentan segun su proovedor, a partir de esto
+luego estos manualmente realizan el calculo del precio teniendo en cuenta descuentos que les ofrece a ellos el , iva y los precios segun el margen de ganancia deseado, luego de esto se continua el proceso, segun se apruebe la cotización para ser preparado y despachado.
+
+Luego de esto se tuvo en cuenta la involucración de sistema de ERP y CRM con los que cuenta la empresa, lo cual su función es principalmente, de registro de clientes, ventas y procesamiento de las cotizaciones.
+
+Con esto se empezo el modelado siguiendo el proceso general descrito, especificando los pasos y que actor los realiza, luego se agrega actores que realizan
+pocos pasos pero cruciales como administración que se encarga de realizar el proceso de facturación y aprobar el despacho una vez se tenga el pago
+
 
 ## 🧩 Análisis del modelo propuesto
-(Pendiente por cliente)
+El modelo esta estructurado, en la sección de recepción del pedido y formulación de los componentes que cumplen la necesidad de este, posteriormente en los
+calculos y proceso de cotización y finalmente en el proceso de confirmación de cotización junto al pago para el despacho.
+
+Esto representa las necesidades del cliente, mostrando los pasos manuales que debe realizar en sistemas no conectados, para poder obtener la información
+requerida para concer los productos que puedan servir y con los que cuenten para proceder a la cotización de la cual tambien deben manualmente consultar y
+realizar el calculo para la venta.
+
+Los supuestos que se tomaron, fueron el uso del CRM durante este proceso y el ERP para registrar las ventas y clientes, ya que durante la explicación que 
+se nos proveyo no fueron mencionados durante el proceso, pero en la explicación de sus operaciones se aclaro el uso de una base de datos para clientes, un erp para el inventario y un crm en el cual tienen registro de leads para realizar las cotizaciones, clientes para cotizaciones , cierre de ventas y entregas de bodega.
 
 ## 📈 Diagrama final entregado
-(Pendiente por cliente)
+![modelo-final](https://github.com/user-attachments/assets/5627d34e-a58f-4c82-8989-94f24222b3d3)
+
+
 
 ## 🔍 Investigación complementaria
 ### Tema investigado:
